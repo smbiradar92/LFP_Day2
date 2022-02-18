@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-Hwllo world
-update 1
-=======
-Hello world
-change1
->>>>>>> f55e00fb065dcf8633872c8ee6f591faa6855549
