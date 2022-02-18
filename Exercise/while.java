@@ -1,0 +1,15 @@
+public class EmployeeAttendence {
+	public static void main(String[] args) {
+		int PRESENT = 1;
+		int ABSENT = 0;
+		
+		int isPresent=(int)(Math.random());
+		
+		if (isPresent==PRESENT) {
+			System.out.println("Employee is Present");	
+		
+		}else {
+			System.out.println("Employee is Absent");
+		}
+	}
+}
